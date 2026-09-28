@@ -1,8 +1,5 @@
 # 🥔 EA Server Overdrive (Ultimate Defibrillator CLI)
-
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Hardware Requirement](https://shields.io)](#)
-[![PRs Welcome](https://shields.io)](http://makeapullrequest.com)
+<img width="49" height="28" alt="image" src="https://github.com/user-attachments/assets/5100ce13-ba6c-4c34-b036-652bce3a5885" /><img width="160" height="28" alt="image" src="https://github.com/user-attachments/assets/ae998005-0300-44a9-8ed2-399a93b35f8a" />
 
 A Hollywood-style, hyper-stressful hacking simulation terminal where your single mission is to **keep the EA (Electronic Arts) matchmaking network online on pure willpower and starch.**
 
