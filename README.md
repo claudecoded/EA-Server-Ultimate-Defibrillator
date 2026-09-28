@@ -48,6 +48,7 @@ graph TD
 ```
 
 ---
+<img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/e83bfc2c-0f1c-475f-9102-b5aec65902e0" />
 
 ## 🕹️ Operations Command Suite
 
